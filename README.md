@@ -1,10 +1,5 @@
 # esmnd HUD Bars 1.20.1
 
-### ПРИМЕЧАНИЕ / NOTE
-Модификации в репозитории [esmnd-minecraft-mods](https://github.com/esmnd-minecraft-mods/) написаны с помощью нейросетей(ИИ) Gemini, DeepSeek, Claude
-
-The modifications in the repository [esmnd-minecraft-mods](https://github.com/esmnd-minecraft-mods/) are written with neural networks (AI) Gemini, DeepSeek, Claude
-
 ### RUS:
 Заменяет стандартный ванильный интерфейс (HUD) Minecraft на настраиваемый и информативный аналог в виде баров. Отображает здоровье, голод, броню, опыт и воздух в виде минималистичных полос с возможностью кастомизации.
 
